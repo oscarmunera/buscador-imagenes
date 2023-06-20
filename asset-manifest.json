@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/oscarmunera/buscador-imagenes/static/js/main.e0cff374.js",
+    "static/js/787.88526d96.chunk.js": "/oscarmunera/buscador-imagenes/static/js/787.88526d96.chunk.js",
+    "index.html": "/oscarmunera/buscador-imagenes/index.html",
+    "main.e0cff374.js.map": "/oscarmunera/buscador-imagenes/static/js/main.e0cff374.js.map",
+    "787.88526d96.chunk.js.map": "/oscarmunera/buscador-imagenes/static/js/787.88526d96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e0cff374.js"
+  ]
+}
